@@ -1,2 +1,2 @@
 ,Serial,Addcir,Status,Coin_ticker,Waitamount,Wish_ekp,Wish_xkp,Exe_ekp,Vol_buy_u,Vol_sell_b,Wish_ekp2,Wish_xkp2,Exe_ekp2,Exe_xkp2,Price_buy_u,Price_sell_b,Price_sell_u,Price_buy_b,Vol_sell_u,Vol_buy_b,Exe_xkp
-0,4,False,0,btc,50000,1260.86,1260.99,1260.73,0.00100001,0.001,,,1.3101,1.3339,39862000.0,31618.1,39861000.0,31609.9,0.00100001,0.001,1261.03
+0,10,False,1,btc,50000,1380.0,1380.14,,,,,,,,,,,,,,
